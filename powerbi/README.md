@@ -1,10 +1,13 @@
-# Dashboard de Power BI
+## 📊 Dashboards
 
-Esta carpeta contiene el dashboard interactivo del proyecto.
+### 1. Resumen Ejecutivo
+KPIs principales, gasto por institución, top 10 instituciones por gasto mensual.
 
-## Archivo
 
-- `analisis_nomina_dominicana.pbix` — Archivo original de Power BI Desktop
+### 2. Análisis Demográfico y Salarial
+Distribución por género, brecha salarial, cargos mejor pagados y evolución mensual del gasto.
 
-## Período analizado
-Enero 2025
+
+### 3. Análisis Presupuestal y Anomalías
+Comparación gasto vs presupuesto asignado, instituciones que exceden su presupuesto, 
+detección de salarios atípicos (outliers) y análisis de relación empleados-gasto.
